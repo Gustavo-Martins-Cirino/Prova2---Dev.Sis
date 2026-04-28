@@ -65,4 +65,4 @@ CREATE TABLE tarefas (
 
 ---
 
-Desafio proposto na prova de Desenvolvimento de Sistemas ✅
+Desafio proposto na prova de Desenvolvimento de Sistemas 
