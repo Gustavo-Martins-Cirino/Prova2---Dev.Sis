@@ -3,7 +3,7 @@
 Projeto desenvolvido como avaliação da disciplina de Desenvolvimento de Sistemas.  
 O objetivo é um **gerenciador de tarefas** com autenticação, CRUD completo e interface usando **Bootstrap 5**.
 
-## ✅ Tecnologias
+## Tecnologias
 - **PHP**
 - **MySQL**
 - **Bootstrap 5** (via CDN)
