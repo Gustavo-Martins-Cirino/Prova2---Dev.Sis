@@ -2,7 +2,7 @@
 // conexao.php — conexão PDO com o banco de dados
 
 $host   = 'localhost';
-$dbname = 'prova2'; 
+$dbname = 'tarefas'; 
 $user   = 'root';
 $pass   = 'ceub123456';
 $charset = 'utf8mb4'; 
